@@ -17,20 +17,20 @@ OpenLoop Node Point Mining Automation: Automate OpenLoop point mining with this 
 ## 🔓 Register 
 
 - If you don't have a OpenLoop.SO account yet
-- Signup Here [https://openloop.so/](https://openloop.so/auth/register?ref=ol3844356f)
+- Signup Here [https://openloop.so/](https://openloop.so/auth/register?ref=olcfbe8331)
 - Register and input Referral code
   ```bash
-  ol3844356f
+  olcfbe8331
   ```
 ## 🤔 How To Do
 
 - Clone This Repo
   - ```bash
-    git clone https://github.com/cmalf/openloop-bot-php.git
+    git clone https://github.com/Mittyadav/Openloop-bot.git
     ```
 - Go To Folder
   - ```bash
-    cd openloop-bot-php
+    cd Openloop-bot
     ```
 - Configuration
 - Run the script
@@ -44,7 +44,4 @@ OpenLoop Node Point Mining Automation: Automate OpenLoop point mining with this 
 - Add your Account information to the accounts.json file.
 - Add proxy to proxy.txt file.
 
-## [◉°] ScreenShoot
-
-<img src="https://github.com/user-attachments/assets/3662daa5-9c93-469f-ac94-d2f4a1eb1216" widht=580 height=480 >
-
+## [◉°]
